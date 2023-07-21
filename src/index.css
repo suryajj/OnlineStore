@@ -1,0 +1,25 @@
+button {
+    background: none;
+    border: none;
+    
+}
+
+.navBarOptions{
+    /* padding-top: 25px; */
+    font-size: 14px;
+    margin-top: 25px; 
+}
+
+#homePage {
+    padding-left: 50px;
+}
+
+.navBarOptionsL{
+    
+    padding-right: 75px;
+}
+
+.navBarOptionsR{
+    /* padding-right: 25px; */
+    padding-left: 75px;
+}
