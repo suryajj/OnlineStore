@@ -1,6 +1,6 @@
 export default function NavBar(){
     return (
-        <div className="navBar">
+        <div className="navBar inner">
             <button id="homePage" className="navBarOptions navBarOptionsL">Home</button>
             <button className="navBarOptions navBarOptionsL" id="categories">Categories</button>
             <button className="navBarOptions navBarOptionsL" id="deals">Exlusive Deals</button>

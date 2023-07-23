@@ -4,6 +4,9 @@ button {
     
 }
 
+
+
+
 .navBar{
     display: flex;
     flex: 1;
@@ -29,4 +32,11 @@ button {
 .navBarOptionsR{
     /* padding-right: 25px; */
     padding-left: 75px;
+}
+
+.display{
+    display: flex;
+    height: 75vh;
+    align-items: center;
+    justify-content: center; 
 }
