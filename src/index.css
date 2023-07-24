@@ -10,10 +10,9 @@ button {
 
 
 /* .image1{
-    max-width: 100%;
-    width: 150px;
     
-    display: block;
+    width: 300px; height: 150px; object-fit: contain;  
+
 
 } */
 
@@ -50,4 +49,9 @@ button {
     height: 75vh;
     align-items: center;
     justify-content: center; 
+}
+
+.displayText{
+    display: flex;
+    flex-direction: row;
 }
