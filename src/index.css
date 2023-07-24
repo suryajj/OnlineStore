@@ -16,6 +16,11 @@ button {
 
 } */
 
+
+.image2{
+    object-fit: fill;
+}
+
 .navBar{
     display: flex;
     flex: 1;
@@ -45,13 +50,13 @@ button {
 
 .display{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     height: 75vh;
     align-items: center;
     justify-content: center; 
 }
 
-.displayText{
+/* .displayText{
     display: flex;
     flex-direction: row;
-}
+} */
