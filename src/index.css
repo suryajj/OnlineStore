@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 button {
     background: none;
     border: none;
@@ -5,7 +9,13 @@ button {
 }
 
 
+/* .image1{
+    max-width: 100%;
+    width: 150px;
+    
+    display: block;
 
+} */
 
 .navBar{
     display: flex;
@@ -36,6 +46,7 @@ button {
 
 .display{
     display: flex;
+    flex-direction: column;
     height: 75vh;
     align-items: center;
     justify-content: center; 
